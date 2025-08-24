@@ -17,7 +17,7 @@ class student
 
         void avgmarks()
         {
-            cout << "average marks :" << marks << endl;
+            cout << "Average Marks :" << marks << endl;
         }
 
         student average(student s2, student s3)
